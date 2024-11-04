@@ -1,0 +1,6 @@
+# Ignore CNN/logs directory
+CNN/logs/
+
+# Ignore all .keras files in any folder
+*.keras
+
